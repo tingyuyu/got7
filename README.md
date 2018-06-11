@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Bootstrap two column gallery
 
-You can use the [editor on GitHub](https://github.com/tingyuyu/got7/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Bootstrap two column gallery](https://github.com/russmaxdesign/06-bootstrap-two-column-gallery) is a basic HTML template that uses the [Bootstrap](http://getbootstrap.com/)  framework. All key Bootstrap files have been included so you can begin creating layouts as needed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## File structure
 
-### Markdown
+[Bootstrap two column gallery](https://github.com/russmaxdesign/06-bootstrap-two-column-gallery) uses the following file structure:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	assets/
+		css/
+			bootstrap.css
+			bootstrap.min.css
+			styles.css
+		fonts/
+			glyphicons-halflings-regular.eot
+			glyphicons-halflings-regular.svg
+			glyphicons-halflings-regular.ttf
+			glyphicons-halflings-regular.woff
+			glyphicons-halflings-regular.woff2
+		img/
+			apple-touch-icon.png
+		js/
+			bootstrap.js
+			bootstrap.min.js
+			html5.js
+			jquery-1.11.2.min.js
+			respond.min.js
+	favicon.ico
+	index.html
+	licence.md
+	readme.md
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tingyuyu/got7/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Bootstrap two column gallery](https://github.com/russmaxdesign/06-bootstrap-two-column-gallery) was created by [Russ Weakley](https://twitter.com/russmaxdesign), [Max Design](http://maxdesign.com.au/). Copyright 2015 Max Design. See LICENCE.md for full details.
